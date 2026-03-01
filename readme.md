@@ -1,7 +1,7 @@
 <div align="center">
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/autter-harbour.png"/>
-    <source media="(prefers-color-scheme: light)" srcset=".github/assets/autter-logo-light.png"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/autter-logo-dark.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/autter-logo-light.png"/>
     <img src=".github/assets/logo-light.png" alt="autter.dev" width="480"/>
   </picture>
   <br/><br/>
@@ -94,7 +94,7 @@ If you are an open source maintainer drowning in AI-generated PRs and want early
 ---
 
 <div align="center">
-  <img src=".github/assets/autter-harbour.png" alt="Captain Patch standing watch at the harbor" width="900"/>
+  <img src="assets/autter-harbour.png" alt="Captain Patch standing watch at the harbor" width="900"/>
   <br/>
   <sub>Captain Patch — standing watch so your code does not have to.</sub>
 </div>
