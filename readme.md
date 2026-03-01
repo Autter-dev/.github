@@ -1,6 +1,6 @@
 <div align="center">
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/autter-logo-dark.png"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/autter-harbour.png"/>
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/autter-logo-light.png"/>
     <img src=".github/assets/logo-light.png" alt="autter.dev" width="480"/>
   </picture>
