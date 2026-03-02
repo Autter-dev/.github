@@ -6,7 +6,6 @@
   </picture>
   <br/><br/>
 
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
 [![Roadmap](https://img.shields.io/badge/roadmap-public-gold?style=flat-square)](https://github.com/autter-dev/autter/projects)
 [![Discussions](https://img.shields.io/github/discussions/autter-dev/autter?style=flat-square)](https://github.com/autter-dev/autter/discussions)
 
@@ -70,7 +69,7 @@ What you can do right now:
 - **[Join the discussion](https://github.com/orgs/Autter-dev/discussions)** to share feedback or push back on the approach
 - **[Open an issue](https://github.com/autter-dev/autter/issues)** if you spot a gap in the design
 
-[CONTRIBUTING.md](./CONTRIBUTING.md) will have the full guide once the codebase is stable enough to accept outside code.
+[CONTRIBUTING.md](https://github.com/Autter-dev/autter.dev/blob/main/CONTRIBUTING.md) will have the full guide once the codebase is stable enough to accept outside code.
 
 ---
 
