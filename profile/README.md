@@ -67,7 +67,7 @@ The codebase is not ready for external contributions yet. It is moving too fast 
 What you can do right now:
 
 - **[Star the repo](https://github.com/autter-dev/autter)** to follow the build
-- **[Join the discussion](https://github.com/autter-dev/autter/discussions)** to share feedback or push back on the approach
+- **[Join the discussion](https://github.com/orgs/Autter-dev/discussions)** to share feedback or push back on the approach
 - **[Open an issue](https://github.com/autter-dev/autter/issues)** if you spot a gap in the design
 
 [CONTRIBUTING.md](./CONTRIBUTING.md) will have the full guide once the codebase is stable enough to accept outside code.
@@ -89,7 +89,7 @@ What you can do right now:
 
 ## Contact
 
-If you are an open source maintainer drowning in AI-generated PRs and want early access, [start a discussion](https://github.com/orgs/Autter-dev/discussions/new?category=announcements).
+If you are an open source maintainer drowning in AI-generated PRs and want early access, [start a discussion](https://github.com/orgs/Autter-dev/discussions).
 
 ---
 
