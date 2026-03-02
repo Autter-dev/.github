@@ -51,7 +51,7 @@ The full [public roadmap](https://github.com/autter-dev/autter/projects) has mor
 
 ## Follow Along
 
-The [Discussions tab](https://github.com/autter-dev/autter/discussions) is where the real conversation happens:
+The [Discussions tab](https://github.com/orgs/Autter-dev/discussions) is where the real conversation happens:
 
 - **[Build Log](https://github.com/autter-dev/autter/discussions/categories/build-log)** — weekly updates on what shipped, what broke, and what we learned
 - **[Ideas](https://github.com/autter-dev/autter/discussions/categories/ideas)** — if you want something built, say so here
@@ -89,7 +89,7 @@ What you can do right now:
 
 ## Contact
 
-If you are an open source maintainer drowning in AI-generated PRs and want early access, [start a discussion](https://github.com/autter-dev/autter/discussions).
+If you are an open source maintainer drowning in AI-generated PRs and want early access, [start a discussion](https://github.com/orgs/Autter-dev/discussions/new?category=announcements).
 
 ---
 
